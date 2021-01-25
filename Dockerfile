@@ -1,4 +1,4 @@
-FROM ifrscanoas/vpl-jail:2.2.2-beta
+FROM ifrscanoas/vpl-jail:2.5.2
 MAINTAINER miltonjesusvc@ufps.edu.co
 MAINTAINER andresbbx@gmail.com
 MAINTAINER carlos22ivan@gmail.com
